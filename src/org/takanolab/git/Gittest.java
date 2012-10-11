@@ -8,6 +8,7 @@ public class Gittest {
 		System.out.println("みかみ");
 		System.out.println("aaaaaa");
 		System.out.println("next commit");
+		System.out.println("みきです");
 
 	}
 
