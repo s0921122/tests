@@ -6,6 +6,9 @@ public class Gittest {
 		System.out.println("second commit!");
 		System.out.println("third commit");
 		System.out.println("みかみ");
+		System.out.println("aaaaaa");
+		System.out.println("next commit");
+
 	}
 
 }
