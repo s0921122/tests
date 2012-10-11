@@ -7,6 +7,7 @@ public class Gittest {
 		System.out.println("third commit");
 		System.out.println("aaaaaa");
 		System.out.println("next commit");
+		System.out.println("どうなっているんだ");
 	}
 
 }
